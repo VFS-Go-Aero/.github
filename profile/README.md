@@ -1,1 +1,2 @@
-
+## About VFS
+VFS Purdue is an AAE organization at Purdue University, composed of students from diverse disciplines with a shared interest in eVTOL aircraft design. By participating in the [GoAERO Competition](https://www.goaeroprize.com/), we aim to excel in the three Stages of the Competition while educating future engineers on innovative eVTOL technologies. With the guidance of faculty and the support of Purdue University and collaborating with other organizations, we empower our team to suceed in the Competition.
