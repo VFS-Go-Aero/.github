@@ -17,8 +17,11 @@ where we maintain:
 - **CI/CD pipelines and documentation**
 
 ## Contact
-- Website: https://vfspurdue.com
-- GitHub: https://github.com/VFS-Go-Aero
-- Email: vfspurd@purdue.edu (or use the contact form on the site)
-- LinkedIn: https://www.linkedin.com/company/purdue-vtol/
-- Instagram: https://www.instagram.com/vfspurdue/
+- **Email:** vfspurd@purdue.edu
+- **Website:** [vfspurdue.com](https://vfspurdue.com)
+- **Location**: Purdue University, West Lafayette, IN, USA
+
+## Social Media
+Stay connected with us on social media:
+- **LinkedIn:** [/company/purdue-vtol](https://www.linkedin.com/company/purdue-vtol/)
+- **Instagram:** [@vfspurdue](https://www.instagram.com/vfspurdue/)
