@@ -16,12 +16,12 @@ where we maintain:
 - **Simulation & analysis tools** (Coming Soon)
 - **CI/CD pipelines and documentation**
 
-## Contact
+### Contact
 - **Email:** vfspurd@purdue.edu
 - **Website:** [vfspurdue.com](https://vfspurdue.com)
 - **Location**: Purdue University, West Lafayette, IN, USA
 
-## Social Media
+### Social Media
 Stay connected with us on social media:
 - **LinkedIn:** [/company/purdue-vtol](https://www.linkedin.com/company/purdue-vtol/)
 - **Instagram:** [@vfspurdue](https://www.instagram.com/vfspurdue/)
